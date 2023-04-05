@@ -1,6 +1,6 @@
 # StickerSmash
 
-Part of mastering my react native skills, I have built a sticker app. That allows users to pick a picture and add emojis onto that picture.
+Part of mastering my react native skills, I have built a sticker app. That allows users to pick a picture and add emojis onto that picture. The user can either use the provided pictures on the app or choose from their device.
 
 The components of my learning journey include:
 1. Building React Native application
